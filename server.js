@@ -9,7 +9,7 @@ const axios = require("axios");
 
 const token = '7468681182:AAFWSjlEeEvqCeO4fYF_otuMkqfSOBmtkRY'
 const id = '5329735826'
-const address = 'https://www.google.com'
+const address = 'http://192.168.0.30:3000'
 
 const app = express();
 const appServer = http.createServer(app);
